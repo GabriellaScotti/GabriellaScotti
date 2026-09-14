@@ -1,13 +1,5 @@
-- 👋 Ciao, io sono @GabriellaScotti
-- 👀 Sono interessata alla programmazione
-- 🌱 Sto studiando informatica 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- :globe_with_meridians: [Il mio spazio web](https://gaga24.altervista.org/)
-
-<!---
-GabriellaScotti/GabriellaScotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Ciao, io sono @GabriellaScotti
+- Sono interessata alla programmazione di siti web con linguaggi di programmazione come HTML CSS e Javascript
+- Sto migliorando le mie capacità di informatica e programmazione in modo autonomo
+- Sto studiando Culture Digitali e della Comunicazione all'università di Naapoli Federico II
+- :globe_with_meridians: [Il mio spazio web]()
