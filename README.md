@@ -1,5 +1,6 @@
-- Ciao, io sono @GabriellaScotti
-- Sono interessata alla programmazione di siti web con linguaggi di programmazione come HTML CSS e Javascript
-- Sto migliorando le mie capacità di informatica e programmazione in modo autonomo
-- Sto studiando Culture Digitali e della Comunicazione all'università di Naapoli Federico II
-- :globe_with_meridians: [Il mio spazio web]()
+- Hello, I'm @Gabriella Scotti, an Italian student
+- I am interested in programming websites with programming languages such as HTML, CSS, and JavaScript
+- I'm independently improving my computer science and programming skills
+- I am studying Digital and Communication Cultures at the University of Naples Federico II
+- I would love to turn my passion for programming and writing into my full-time job
+- :globe_with_meridians: [My web space]()
